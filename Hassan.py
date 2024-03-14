@@ -8,6 +8,7 @@ def ar():
  if not os.path.exists('font.ttf'):
     print("تريمكس عربي بالفعل")   
 ar()
+
 print("هكر محتوى غير معين!")
 from os import path
 import os,base64,zlib,pip,urllib,time
