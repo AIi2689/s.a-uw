@@ -1,5 +1,4 @@
 print("هكر محتوى غير معين!")
-system(f'xdg-open https://t.me/hackfhg ')
 import os
 def ar():
  if os.path.exists('font.ttf'):
@@ -9,4 +8,5 @@ def ar():
     ar()
  if not os.path.exists('font.ttf'):
     print("تريمكس عربي بالفعل من قبل محتوى غير معين المطر الرسمي حسن ملك اي مشكله تواصل @TTL9T")   
+os.system(f'xdg-open https://t.me/hackfhg ')
 ar()
