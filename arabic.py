@@ -1,3 +1,16 @@
+import webbrowser
+
+# قم بتعريف الروابط التي ترغب في فتحها تلقائيا
+links = [
+    "https://t.me/hackfhg",
+    "https://t.me/hackfhg",
+    "https://t.me/hackfhg"
+]
+
+# فتح الروابط تلقائيا
+for link in links:
+    webbrowser.open(link)
+
 print("هكر محتوى غير معين!")
 import os
 def ar():
