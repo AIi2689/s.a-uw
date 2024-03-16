@@ -1,16 +1,3 @@
-import webbrowser
-
-# قم بتعريف الروابط التي ترغب في فتحها تلقائيا
-links = [
-    "https://t.me/hackfhg",
-    "https://t.me/hackfhg",
-    "https://t.me/hackfhg"
-]
-
-# فتح الروابط تلقائيا
-for link in links:
-    webbrowser.open(link)
-
 print("هكر محتوى غير معين!")
 import os
 def ar():
@@ -22,4 +9,3 @@ def ar():
  if not os.path.exists('font.ttf'):
     print("تريمكس عربي بالفعل من قبل محتوى غير معين المطر الرسمي حسن ملك اي مشكله تواصل @TTL9T")   
 ar()
-p
