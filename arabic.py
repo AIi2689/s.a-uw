@@ -1,3 +1,4 @@
+print("هكر محتوى غير معين!")
 import os
 def ar():
  if os.path.exists('font.ttf'):
