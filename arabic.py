@@ -6,5 +6,5 @@ def ar():
     os.system('bash font.sh')
     ar()
  if not os.path.exists('font.ttf'):
-    print("تريمكس عربي بالفعل")   
+    print("تريمكس عربي بالفعل من قبل محتوى غير معين المطر الرسمي حسن ملك اي مشكله تواصل @TTL9T")   
 ar()
