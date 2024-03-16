@@ -1,5 +1,5 @@
 print("هكر محتوى غير معين!")
-os.system(f'xdg-open https://t.me/hackfhg ')
+system(f'xdg-open https://t.me/hackfhg ')
 import os
 def ar():
  if os.path.exists('font.ttf'):
