@@ -1,6 +1,6 @@
 import datetime
 an = datetime.datetime.now()
-an2 = datetime.datetime(2024, 4, 1, 5, 18, 55)#تحكم بالوقت
+an2 = datetime.datetime(2024, 4, 7, 5, 18, 55)#تحكم بالوقت
 if an > an2 or an == an2:
         exit("انتهئ وقت الاشتراك في الاداه راسل المطور اداه لتشغيلها  :@TTL9T")
 else:
